@@ -61,41 +61,30 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Michel Metran"
-  avatar: "/assets/images/avatar.png"
-  bio: "Following the White Rabbit"
+  name: Open Consensus"
+  avatar: "/assets/images/logo.png"
+  bio: "Análise de similaridade entre moléculas, por meio da técnica 'pope consensus'"
   location: "Piracicaba, SP"
   links:
     - label: "Site"
       icon: "fas fa-fw fa-link"
-      url: "https://michelmetran.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/michelmetran"
+      url: "https://open-consensus.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/michelmetran"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/michelmetran"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/michelmetran"
-    - label: "StackOverflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/6003328/michel-metran"
+      url: "https://github.com/open-consensus"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/michelmetran"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/michelmetran"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/michelmetran"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/michelmetran"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/michelmetran"
 
 defaults:
   # _posts

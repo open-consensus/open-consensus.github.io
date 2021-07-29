@@ -41,20 +41,6 @@ Leonardo Bruno Federico:
       url: "https://github.com/lbfederico"
 
 
-Open Geodata:
-  name: "Open Geodata"
-  avatar: "/assets/images/avatar_lb.jpeg"
-  #bio: "Following the White Rabbit"
-  location: "Piracicaba, SP"
-  links:
-    - label: "Site"
-      icon: "fas fa-fw fa-link"
-      url: "https://open-geodata.github.io"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/open-geodata"
-
-
 Open Consensus:
   name: Open Consensus"
   avatar: "/assets/images/logo.png"
