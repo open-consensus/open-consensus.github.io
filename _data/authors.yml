@@ -53,3 +53,17 @@ Open Geodata:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/open-geodata"
+
+
+Open Consensus:
+  name: Open Consensus"
+  avatar: "/assets/images/logo.png"
+  bio: "Análise de similaridade entre moléculas, por meio da técnica 'pope consensus'"
+  location: "Piracicaba, SP"
+  links:
+    - label: "Site"
+      icon: "fas fa-fw fa-link"
+      url: "https://open-consensus.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/open-consensus"
