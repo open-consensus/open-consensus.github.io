@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Open Consensus
+title: Open Escola
 email: michelmetran@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -61,24 +61,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: Open Consensus"
+  name: Open Escola"
   avatar: "/assets/images/logo.png"
-  bio: "Análise de similaridade entre moléculas, por meio da técnica 'pope consensus'"
+  bio: "Informações sobre o Sistema de Gerenciamento de uma Escola. Projeto
+   desenvolvido com framework Django, para atendimento à proposta do Projeto Integrador"
   location: "Brasil"
   links:
     - label: "Site"
       icon: "fas fa-fw fa-link"
-      url: "https://open-consensus.github.io"
+      url: "https://open-escola.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/open-consensus"
+      url: "https://github.com/open-escola"
 
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/open-consensus"
+      url: "https://github.com/open-escola"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/michelmetran"
