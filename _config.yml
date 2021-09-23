@@ -30,6 +30,7 @@ logo: "/assets/images/logo.png"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -61,10 +62,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: Open Escola"
+  name: Open Consensus
   avatar: "/assets/images/logo.png"
-  bio: "Informações sobre o Sistema de Gerenciamento de uma Escola. Projeto
-   desenvolvido com framework Django, para atendimento à proposta do Projeto Integrador"
+  bio: Análise de similaridade entre moléculas, por meio da técnica "pope consensus"
   location: "Brasil"
   links:
     - label: "Site"
